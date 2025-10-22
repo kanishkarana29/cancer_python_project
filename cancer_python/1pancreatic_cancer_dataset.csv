@@ -1,0 +1,25 @@
+Age_Group,Gender,%Cure,Survival_Rate,Death_Rate,Stage_of_Cancer
+0-19,Male,16.13,11.42,88.58,Stage III
+0-19,Female,12.37,10.46,89.54,Stage IV
+20-29,Male,2.9,21.07,78.93,Stage III
+20-29,Female,12.42,29.78,70.22,Stage I
+30-39,Male,2.07,30.27,69.73,Stage II
+30-39,Female,5.03,11.36,88.64,Stage II
+40-49,Male,12.73,26.41,73.59,Stage I
+40-49,Female,9.21,15.19,84.81,Stage I
+50-59,Male,8.6,6.63,93.37,Stage III
+50-59,Female,7.96,20.96,79.04,Stage IV
+60-69,Male,12.75,18.39,81.61,Stage III
+60-69,Female,12.26,6.63,93.37,Stage IV
+70-79,Male,13.93,20.77,79.23,Stage III
+70-79,Female,19.03,38.8,61.2,Stage II
+80+,Male,8.32,5.56,94.44,Stage II
+80+,Female,14.0,20.41,79.59,Stage II
+0-19,Transgender,10.2,18.4,81.6,Stage II
+20-29,Transgender,8.5,15.2,84.8,Stage III
+30-39,Transgender,7.1,13.0,87.0,Stage III
+40-49,Transgender,5.9,10.8,89.2,Stage IV
+50-59,Transgender,4.4,8.5,91.5,Stage IV
+60-69,Transgender,3.2,6.2,93.8,Stage IV 
+70-79,Transgender,2.0,4.0,96.0,Stage IV
+80+,Transgender,1.0,2.0,98.0,Stage IV
